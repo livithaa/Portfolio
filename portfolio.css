@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    margin: 0 10px;
+    vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Optional: Adjust the spacing and style for the anchor links */
+a {
+    margin-right: 15px;
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
